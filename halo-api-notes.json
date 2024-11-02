@@ -1,0 +1,658 @@
+https://sr-nextjs.vercel.app/api/halodotapi?path=%2Fgames%2Fhalo-infinite%2Fstats%2Fmultiplayer%2Fplayers%2FD%20Bang91%2Fservice-record%2Fmatchmade%3Ffilter%3Dall
+
+https://sr-nextjs.vercel.app/api/halodotapi?path=%2Fgames%2Fhalo-infinite%2Fstats%2Fmultiplayer%2Fplayers%2FD%20Bang91%2Fservice-record%2Fmatchmade%3Ffilter%3Dall
+
+{
+  "data": {
+    "stats": {
+      "core": {
+        "summary": {
+          "kills": 20030,
+          "deaths": 20182,
+          "assists": 7543,
+          "betrayals": 17,
+          "suicides": 149,
+          "spawns": 10300,
+          "max_killing_spree": 13,
+          "vehicles": {
+            "destroys": 215,
+            "hijacks": 54
+          },
+          "medals": {
+            "total": 8361,
+            "unique": 95
+          },
+          "objectives_completed": 5
+        },
+        "damage": {
+          "taken": 5985056,
+          "dealt": 5974268
+        },
+        "shots": {
+          "fired": 608426,
+          "hit": 194312,
+          "missed": 414114,
+          "accuracy": 31.9368337316288
+        },
+        "rounds": {
+          "won": 1118,
+          "lost": 1173,
+          "tied": 101
+        },
+        "breakdown": {
+          "kills": {
+            "melee": 3202,
+            "grenades": 2299,
+            "headshots": 3235,
+            "power_weapons": 5155,
+            "sticks": 411,
+            "assassinations": 607,
+            "vehicles": {
+              "splatters": 73
+            },
+            "miscellaneous": {
+              "repulsor": 59,
+              "fusion_coils": 195
+            }
+          },
+          "assists": {
+            "emp": 12,
+            "driver": 27,
+            "callouts": 132
+          },
+          "vehicles": {
+            "destroys": [
+              {
+                "value": "banshee",
+                "count": 17
+              },
+              {
+                "value": "wraith",
+                "count": 3
+              },
+              {
+                "value": "scorpion",
+                "count": 3
+              },
+              {
+                "value": "ghost",
+                "count": 13
+              },
+              {
+                "value": "wasp",
+                "count": 5
+              },
+              {
+                "value": "gungoose",
+                "count": 2
+              },
+              {
+                "value": "brute_chopper",
+                "count": 12
+              },
+              {
+                "value": "razorback",
+                "count": 1
+              },
+              {
+                "value": "warthog",
+                "count": 21
+              },
+              {
+                "value": "rocket_hog",
+                "count": 17
+              }
+            ],
+            "hijacks": [
+              {
+                "value": "banshee",
+                "count": 15
+              },
+              {
+                "value": "ghost",
+                "count": 18
+              },
+              {
+                "value": "wasp",
+                "count": 4
+              },
+              {
+                "value": "brute_chopper",
+                "count": 5
+              },
+              {
+                "value": "razorback",
+                "count": 1
+              },
+              {
+                "value": "warthog",
+                "count": 2
+              },
+              {
+                "value": "rocket_hog",
+                "count": 5
+              }
+            ]
+          },
+          "medals": [
+            {
+              "id": 269174970,
+              "count": 183
+            },
+            {
+              "id": 548533137,
+              "count": 590
+            },
+            {
+              "id": 2780740615,
+              "count": 480
+            },
+            {
+              "id": 1172766553,
+              "count": 41
+            },
+            {
+              "id": 622331684,
+              "count": 1673
+            },
+            {
+              "id": 2625820422,
+              "count": 601
+            },
+            {
+              "id": 2602963073,
+              "count": 215
+            },
+            {
+              "id": 2123530881,
+              "count": 586
+            },
+            {
+              "id": 2852571933,
+              "count": 64
+            },
+            {
+              "id": 3233952928,
+              "count": 462
+            },
+            {
+              "id": 1169390319,
+              "count": 115
+            },
+            {
+              "id": 3114137341,
+              "count": 49
+            },
+            {
+              "id": 3091261182,
+              "count": 117
+            },
+            {
+              "id": 1176569867,
+              "count": 85
+            },
+            {
+              "id": 2418616582,
+              "count": 183
+            },
+            {
+              "id": 3334154676,
+              "count": 36
+            },
+            {
+              "id": 3488248720,
+              "count": 13
+            },
+            {
+              "id": 2861418269,
+              "count": 58
+            },
+            {
+              "id": 3655682764,
+              "count": 411
+            },
+            {
+              "id": 1284032216,
+              "count": 69
+            },
+            {
+              "id": 1680000231,
+              "count": 13
+            },
+            {
+              "id": 221693153,
+              "count": 73
+            },
+            {
+              "id": 1146876011,
+              "count": 154
+            },
+            {
+              "id": 1734214473,
+              "count": 112
+            },
+            {
+              "id": 976049027,
+              "count": 8
+            },
+            {
+              "id": 2758320809,
+              "count": 202
+            },
+            {
+              "id": 651256911,
+              "count": 23
+            },
+            {
+              "id": 1427176344,
+              "count": 10
+            },
+            {
+              "id": 3732790338,
+              "count": 11
+            },
+            {
+              "id": 3546244406,
+              "count": 195
+            },
+            {
+              "id": 2648272972,
+              "count": 91
+            },
+            {
+              "id": 2063152177,
+              "count": 168
+            },
+            {
+              "id": 656245292,
+              "count": 2
+            },
+            {
+              "id": 3905838030,
+              "count": 66
+            },
+            {
+              "id": 1969067783,
+              "count": 50
+            },
+            {
+              "id": 1283796619,
+              "count": 60
+            },
+            {
+              "id": 3227840152,
+              "count": 11
+            },
+            {
+              "id": 1512363953,
+              "count": 98
+            },
+            {
+              "id": 3085856613,
+              "count": 7
+            },
+            {
+              "id": 690125105,
+              "count": 29
+            },
+            {
+              "id": 2414983178,
+              "count": 25
+            },
+            {
+              "id": 2827657131,
+              "count": 4
+            },
+            {
+              "id": 4229934157,
+              "count": 92
+            },
+            {
+              "id": 3934547153,
+              "count": 13
+            },
+            {
+              "id": 3160646854,
+              "count": 5
+            },
+            {
+              "id": 1169571763,
+              "count": 18
+            },
+            {
+              "id": 781229683,
+              "count": 3
+            },
+            {
+              "id": 731054446,
+              "count": 19
+            },
+            {
+              "id": 265478668,
+              "count": 7
+            },
+            {
+              "id": 1472686630,
+              "count": 45
+            },
+            {
+              "id": 3630529364,
+              "count": 7
+            },
+            {
+              "id": 524758914,
+              "count": 71
+            },
+            {
+              "id": 1210678802,
+              "count": 209
+            },
+            {
+              "id": 4215552487,
+              "count": 22
+            },
+            {
+              "id": 1646928910,
+              "count": 35
+            },
+            {
+              "id": 3059799290,
+              "count": 15
+            },
+            {
+              "id": 835814121,
+              "count": 21
+            },
+            {
+              "id": 1880789493,
+              "count": 43
+            },
+            {
+              "id": 2278023431,
+              "count": 7
+            },
+            {
+              "id": 3876426273,
+              "count": 16
+            },
+            {
+              "id": 4277328263,
+              "count": 21
+            },
+            {
+              "id": 4261842076,
+              "count": 18
+            },
+            {
+              "id": 87172902,
+              "count": 108
+            },
+            {
+              "id": 3217141618,
+              "count": 4
+            },
+            {
+              "id": 1445036152,
+              "count": 1
+            },
+            {
+              "id": 3347922939,
+              "count": 7
+            },
+            {
+              "id": 3011158621,
+              "count": 1
+            },
+            {
+              "id": 521420212,
+              "count": 1
+            },
+            {
+              "id": 4247875860,
+              "count": 1
+            },
+            {
+              "id": 641726424,
+              "count": 5
+            },
+            {
+              "id": 1298835518,
+              "count": 1
+            },
+            {
+              "id": 3783455472,
+              "count": 2
+            },
+            {
+              "id": 418532952,
+              "count": 3
+            },
+            {
+              "id": 988255960,
+              "count": 11
+            },
+            {
+              "id": 670606868,
+              "count": 6
+            },
+            {
+              "id": 1841872491,
+              "count": 16
+            },
+            {
+              "id": 4132863117,
+              "count": 1
+            },
+            {
+              "id": 580478179,
+              "count": 19
+            },
+            {
+              "id": 2137071619,
+              "count": 3
+            },
+            {
+              "id": 1211820913,
+              "count": 4
+            },
+            {
+              "id": 1623236079,
+              "count": 2
+            },
+            {
+              "id": 677323068,
+              "count": 2
+            },
+            {
+              "id": 555849395,
+              "count": 2
+            },
+            {
+              "id": 1090931685,
+              "count": 1
+            },
+            {
+              "id": 1477806194,
+              "count": 12
+            },
+            {
+              "id": 2750622016,
+              "count": 5
+            },
+            {
+              "id": 175594566,
+              "count": 1
+            },
+            {
+              "id": 2477555653,
+              "count": 2
+            },
+            {
+              "id": 394349536,
+              "count": 4
+            },
+            {
+              "id": 2964157454,
+              "count": 1
+            },
+            {
+              "id": 1430343434,
+              "count": 1
+            },
+            {
+              "id": 4086138034,
+              "count": 1
+            },
+            {
+              "id": 1486797009,
+              "count": 1
+            },
+            {
+              "id": 710323196,
+              "count": 1
+            },
+            {
+              "id": 1720896992,
+              "count": 1
+            }
+          ]
+        },
+        "kdr": 0.992468536319493,
+        "kda": 1.20588735749532,
+        "scores": {
+          "personal": 2694210,
+          "points": 17382
+        }
+      },
+      "modes": {
+        "capture_the_flag": {
+          "flag_capture_assists": 78,
+          "flag_captures": 121,
+          "flag_carriers_killed": 164,
+          "flag_grabs": 317,
+          "flag_returners_killed": 79,
+          "flag_returns": 211,
+          "flag_secures": 318,
+          "flag_steals": 364,
+          "kills_as_flag_carrier": 21,
+          "kills_as_flag_returner": 45,
+          "time_as_flag_carrier": {
+            "seconds": 7903,
+            "human": "02h 11m 43s"
+          }
+        },
+        "elimination": {
+          "allies_revived": 35,
+          "elimination_assists": 87,
+          "eliminations": 271,
+          "enemy_revives_denied": 5,
+          "executions": 28,
+          "kills_as_last_player_standing": 25,
+          "last_players_standing_killed": 38,
+          "rounds_survived": 119,
+          "times_revived_by_ally": 33
+        },
+        "extraction": {
+          "extraction_conversions_completed": 9,
+          "extraction_conversions_denied": 1,
+          "extraction_initiations_completed": 1,
+          "extraction_initiations_denied": 0,
+          "successful_extractions": 4
+        },
+        "infection": {
+          "alphas_killed": 3,
+          "infected_killed": 5,
+          "kills_as_last_spartan_standing": 0,
+          "last_spartans_standing_infected": 0,
+          "rounds_as_alpha": 1,
+          "rounds_as_last_spartan_standing": 0,
+          "rounds_finished_as_infected": 6,
+          "rounds_survived_as_last_spartan_standing": 0,
+          "rounds_survived_as_spartan": 0,
+          "spartans_infected": 0,
+          "spartans_infected_as_alpha": 0,
+          "time_as_last_spartan_standing": {
+            "seconds": 0,
+            "human": "00h 00m 00s"
+          }
+        },
+        "oddball": {
+          "kills_as_skull_carrier": 64,
+          "longest_time_as_skull_carrier": {
+            "seconds": 65,
+            "human": "00h 01m 05s"
+          },
+          "skull_carriers_killed": 368,
+          "skull_grabs": 58,
+          "skull_scoring_ticks": 5328,
+          "time_as_skull_carrier": {
+            "seconds": 5611,
+            "human": "01h 33m 31s"
+          }
+        },
+        "zones": {
+          "total_zone_occupation_time": {
+            "seconds": 30661,
+            "human": "08h 31m 01s"
+          },
+          "zone_captures": 2475,
+          "zone_defensive_kills": 575,
+          "zone_offensive_kills": 1366,
+          "zone_scoring_ticks": 6846,
+          "zone_secures": 382
+        },
+        "stockpile": {
+          "kills_as_power_seed_carrier": 5,
+          "power_seed_carriers_killed": 10,
+          "power_seeds_deposited": 19,
+          "power_seeds_stolen": 1,
+          "time_as_power_seed_carrier": {
+            "seconds": 755,
+            "human": "00h 12m 35s"
+          },
+          "time_as_power_seed_driver": {
+            "seconds": 0,
+            "human": "00h 00m 00s"
+          }
+        },
+        "pvp": {
+          "assists": 115,
+          "deaths": 420,
+          "kills": 338
+        },
+        "pve": {
+          "assists": 9,
+          "boss_kills": 1,
+          "brute_kills": 12,
+          "deaths": 0,
+          "elite_kills": 3,
+          "grunt_kills": 10,
+          "hunter_kills": 1,
+          "jackal_kills": 20,
+          "kills": 55,
+          "marine_kills": 0,
+          "sentinel_kills": 0,
+          "skimmer_kills": 8
+        }
+      }
+    },
+    "matches": {
+      "wins": 935,
+      "losses": 990,
+      "ties": 12,
+      "completed": 1959
+    },
+    "time_played": {
+      "seconds": 983926,
+      "human": "11d 09h 18m 46s"
+    }
+  },
+  "additional": {
+    "params": {
+      "gamertag": "D Bang91"
+    },
+    "query": {
+      "filter": "all"
+    }
+  }
+}
